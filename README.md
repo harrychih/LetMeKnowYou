@@ -14,7 +14,7 @@ Can machine learn human faces and expressions from images?
 
 ## More
 
-Please See ```601_675_Final_Project_Submission.ipynb``` to see more details about the models and dataset
+Please See ```601_675_Final_Project_Submission.ipynb``` and ```project_presentation_slides.pdf``` to see more details about the models and dataset
 
 ## Reference
 
